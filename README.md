@@ -10,7 +10,7 @@
 -ESLint, Vite, Webpack, JEST, Crypress <br />
 -Agile, DevOps, Git, CI/CD <br />
 ## 👀 I’m interested in:
-   -Blockchain Development.
+   -Blockchain Development. <br />
    -Smart contract.
    -MERN Stack Development.
 # Skills
