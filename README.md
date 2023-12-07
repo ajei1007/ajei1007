@@ -11,7 +11,7 @@
 -Agile, DevOps, Git, CI/CD <br />
 ## 👀 I’m interested in:
    -Blockchain Development. <br />
-   -Smart contract.
+   -Smart contract. <br />
    -MERN Stack Development.
 # Skills
 <p>
