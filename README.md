@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Senior full stack Web Developer.
 ## I have rich experience in:
-- HTML/HTML5, CSS, JavaScript, TypeScript, Python, C++/C# <br />
--Tailwind CSS, Ant Design, Three.js, D3.js <br />
--Redux, React.js, Next.js, Angular, Vue.js, RemixJS, React Native <br />
+- HTML/HTML5, CSS, JavaScript, TypeScript, Python, dart <br />
+-Tailwind CSS, Ant Design, bootstrap 5, Material UI <br />
+-Redux, React.js, Next.js, Angular, Vue.js, RemixJS, React Native, Flutter <br />
 -Node.js, ExpressJS, Django, Laravel <br />
--MySQL, NoSQL(MongoDB, CouchDB), Firebase <br />
+-MySQL, NoSQL(MongoDB, CouchDB), Firebase, Postgre SQL <br />
 -Rest API, WebSocket, GraphicQL, gRPC <br />
 -Blockchain, dApps, Web3, NFT, Ethereum, Web3.js <br />
 -ESLint, Vite, Webpack, JEST, Crypress <br />
