@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Senior full stack Web Developer.
+I'm proficient with most popular technologies for web and mobile applications such as: Angular, React, React Native, Node.js, Vue.js, Django.
+I can bring even more value to my clients by taking all steps in the software development process, from analyzing requirements to implementing and distributing to users, making me a full-stack developer.
 ## I have rich experience in:
 - HTML/HTML5, CSS, JavaScript, TypeScript, Python, dart <br />
 -Tailwind CSS, Material UI, Ant Design, Chakra UI, diasy UI, bootstrap 5 <br />
