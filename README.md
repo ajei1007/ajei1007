@@ -4,8 +4,8 @@ I can bring even more value to my clients by taking all steps in the software de
 ## I have rich experience in:
 - HTML/HTML5, CSS, JavaScript, TypeScript, Python, dart <br />
 -Tailwind CSS, Material UI, Ant Design, Chakra UI, diasy UI, bootstrap 5 <br />
--Redux, React.js, Next.js, Angular, Vue.js, RemixJS, React Native, Flutter <br />
--Node.js, ExpressJS, Django, Laravel <br />
+-Vue.js, Redux, React.js, Next.js, Angular, RemixJS, React Native, Flutter <br />
+-Golang, Node.js, ExpressJS, Django, Laravel <br />
 -MySQL, NoSQL(MongoDB, CouchDB), Firebase, Postgre SQL <br />
 -Rest API, WebSocket, GraphicQL, gRPC <br />
 -Blockchain, dApps, Web3, NFT, Ethereum, Web3.js <br />
@@ -15,7 +15,6 @@ I can bring even more value to my clients by taking all steps in the software de
 ## 👀 I’m interested in:
    -Blockchain Development. <br />
    -Smart contract. <br />
-   -Golang
 # Skills
 <p>
    <img align="center" src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="ajei" />
