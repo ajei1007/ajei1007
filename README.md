@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Senior full stack Web Developer.
-I'm proficient with most popular technologies for web and mobile applications such as: Angular, React, React Native, Node.js, Vue.js, Django.
+# 👋 Hi, I’m Senior full stack Software Developer.
+I'm proficient with most popular technologies for web and mobile applications such as: Angular, React, React Native, Flask, Node.js, Vue.js, Django.
 I can bring even more value to my clients by taking all steps in the software development process, from analyzing requirements to implementing and distributing to users, making me a full-stack developer.
 ## I have rich experience in:
-- HTML/HTML5, CSS, JavaScript, TypeScript, Python, dart <br />
+- HTML/HTML5, CSS, Python, JavaScript, TypeScript, dart <br />
 -Tailwind CSS, Material UI, Ant Design, Chakra UI, diasy UI, bootstrap 5 <br />
 -Vue.js, Redux, React.js, Next.js, Angular, RemixJS, React Native, Flutter <br />
--Golang, Node.js, ExpressJS, Django, Laravel <br />
+-Django, Flask, FastAPI, Golang, Node.js, ExpressJS, Laravel <br />
 -MySQL, NoSQL(MongoDB, CouchDB), Firebase, Postgre SQL <br />
 -Rest API, WebSocket, GraphicQL, gRPC <br />
 -Blockchain, dApps, Web3, NFT, Ethereum, Web3.js <br />
